@@ -8,8 +8,8 @@ public class twoD {
           Scanner sc = new Scanner(System.in);
           // Taking number of rows input from the user
           System.out.print("Enter the number of rows: ");
-          int row = sc.nextInt();
-
+          int row = sc.nextInt(); 
+          String s ="Hello";
           System.out.print("Enter the number of columns: ");
           int col = sc.nextInt();
 
@@ -17,8 +17,8 @@ public class twoD {
 
           System.out.print("Enter elements of array");
         //   taking input from user for each element
-           for(int i =0;i<row;i++){ 
-            for(int j =0; j<col;j++){
+           for(int i=0; i<row; i++){
+            for(int j=0; j<col;j++){
                 arr[i][j] = sc.nextInt();
             }
            }
