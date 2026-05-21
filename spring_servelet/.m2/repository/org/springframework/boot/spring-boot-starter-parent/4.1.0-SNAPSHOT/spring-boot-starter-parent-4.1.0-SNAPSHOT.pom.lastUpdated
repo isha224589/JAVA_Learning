@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Apr 21 17:21:23 IST 2026
+@default-spring-snapshots-https\://repo.spring.io/snapshot/.lastUpdated=1776772283919
+https\://repo.spring.io/snapshot/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:4.1.0-SNAPSHOT from/to spring-snapshots (https\://repo.spring.io/snapshot)\: Permission denied\: getsockopt

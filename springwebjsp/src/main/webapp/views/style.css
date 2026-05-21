@@ -1,0 +1,23 @@
+body{
+    background-color: beige;
+    align-content: center;
+    align-items: center;
+}
+.submit{
+    background-color: brown;
+    padding: 8px;
+    margin: 20px;
+    width: 100px;
+    border: 2px;
+}
+#num1{
+   margin: 5px;
+}
+#num2{
+    margin: 5px;
+}
+form{
+    border: 1px;
+    background-color: antiquewhite;
+}
+
